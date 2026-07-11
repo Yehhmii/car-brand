@@ -135,7 +135,7 @@ export default function Presence() {
               }}
             >
               <Image 
-                src={`/images/showroom-cars/car${trail.imgIndex}.jfif`} 
+                src={`/images/showroom-cars/car${trail.imgIndex}.jpg`} 
                 alt="Showroom trail detail" 
                 fill 
                 className="object-cover opacity-90" 
